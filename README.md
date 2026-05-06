@@ -18,11 +18,11 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-🎓 BS Computer Science student (COMSATS) <br/>
-💡 Strong in <b>C, C++, Java (OOP)</b> <br/>
-🐍 Working with <b>Python & AI tools</b> <br/>
-🌱 Exploring <b>Web Development, AI, DSA</b> <br/>
-🎯 Goal: Build scalable software & intelligent systems
+ 🎓 BS Computer Science student (COMSATS) <br/>
+ 💡 Strong in <b>C, C++, Java (OOP)</b> <br/>
+ 🐍 Working with <b>Python & AI tools</b> <br/>
+ 🌱 Exploring <b>Web Development, AI, DSA</b> <br/>
+ 🎯 Goal: Build scalable software & intelligent systems
 </p>
 
 ---
@@ -112,9 +112,9 @@
 <h2 align="center">🎯 Focus</h2>
 
 <p align="center">
-⚡ Data Structures <br/>
-🌐 Web Development <br/>
-🤖 Artificial Intelligence
+ ⚡ Data Structures <br/>
+ 🌐 Web Development <br/>
+ 🤖 Artificial Intelligence
 </p>
 
 ---
