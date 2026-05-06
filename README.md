@@ -5,8 +5,12 @@
 <h3 align="center">⚡ Building the future, one line of code at a time</h3>
 
 <p align="center">
-  <a href="mailto:omni833i@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Shifa-0000">💻 GitHub</a>
+  <a href="mailto:omni833i@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://github.com/Shifa-0000">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
 
 ---
@@ -39,12 +43,12 @@
   <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
 
-<h3 align="center">🧠 DSA & Programming</h3>
+<h3 align="center">🧠 DSA</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,c" />
 </p>
 
-<h3 align="center">🛠 Tools & Databases</h3>
+<h3 align="center">🛠 Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,linux,vscode" />
   <br/>
@@ -52,10 +56,8 @@
   <img src="https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualstudio" />
 </p>
 
-<h3 align="center">📚 Currently Learning</h3>
+<h3 align="center">📚 Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <br/>
   <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch" />
   <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy" />
@@ -67,27 +69,24 @@
 <h2 align="center">🚀 Projects</h2>
 
 <h3>🧾 Carpet Showroom Inventory System</h3>
-
 <ul>
-  <li>Built using <b>C and Java</b></li>
+  <li>Built in <b>C and Java</b></li>
   <li>Inventory operations: Add, Update, Delete, Search</li>
-  <li>Applied structured programming + OOP concepts</li>
-  <li>Simulates real-world showroom workflow</li>
+  <li>Structured programming + OOP implementation</li>
+  <li>Real-world showroom simulation</li>
 </ul>
 
-<h3>🌐 Network Simulation (Cisco Packet Tracer)</h3>
-
+<h3>🌐 Network Simulation</h3>
 <ul>
-  <li>Configured VLANs, VLSM, OSPF, DHCP, NAT</li>
-  <li>Implemented Inter-VLAN Routing</li>
-  <li>Used STP (PortFast & BPDU Guard)</li>
+  <li>VLANs, VLSM, OSPF, DHCP, NAT</li>
+  <li>Inter-VLAN Routing</li>
+  <li>STP (PortFast & BPDU Guard)</li>
 </ul>
 
-<h3>🧠 Problem-Solving Projects</h3>
-
+<h3>🧠 Problem Solving</h3>
 <ul>
-  <li>Array, string, and matrix-based programs</li>
-  <li>Implemented searching & sorting algorithms</li>
+  <li>Arrays, strings, matrix programs</li>
+  <li>Sorting & searching algorithms</li>
 </ul>
 
 ---
@@ -105,17 +104,17 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/Shifa-0000/Shifa-0000/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Shifa-0000/Shifa-0000/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">🎯 Focus</h2>
 
 <p align="center">
-⚡ Data Structures & Algorithms <br/>
-🌐 Full Stack Web Development <br/>
-🤖 Artificial Intelligence & Machine Learning
+⚡ Data Structures <br/>
+🌐 Web Development <br/>
+🤖 Artificial Intelligence
 </p>
 
 ---
